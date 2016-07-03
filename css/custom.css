@@ -1,0 +1,48 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.jumbotron {
+
+	text-align: center;
+	background-image: url("../images/Library_1400_800.jpg");	
+	margin-bottom: 50px;
+}
+.jumbotron h1 , ul.nav{
+
+
+}
+ul.nav {
+	font-size: 14px ;
+}
+
+.jumbotron h1 {
+	font-family: 'Arvo', serif;
+	color:#7E3F10;
+	padding: 30px;
+	border: 20px  ;
+	margin-top: -77px;
+	margin-bottom: 250px;
+	margin-left: 400px;
+}
+
+.col-md-4{
+	margin-top: 50px;
+}
+.marker{
+	color: red;
+}
+.header {
+	color: #d43f3a;
+	text-align: center;
+	font-family: 'Arvo', serif;
+	text-decoration: underline;
+	font-size: 35px;
+	opacity: .8;
+}
+.row{
+
+background-color: #FFEFD7;
+
+}
